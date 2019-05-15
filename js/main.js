@@ -1,1 +1,1 @@
-var myLongVariable = 10;
+var myLongVariable = 7654;
