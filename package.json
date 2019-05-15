@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AsYouThink/03-instanews/issues"
   },
-  "homepage": "https://github.com/AsYouThink/03-instanews#readme"
+  "homepage": "https://github.com/AsYouThink/03-instanews#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
