@@ -1,0 +1,1 @@
+var myLongVariable = 10;

@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AsYouThink/03-instanews#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.1.7"
   }
 }
