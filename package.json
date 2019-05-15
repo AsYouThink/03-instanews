@@ -1,0 +1,19 @@
+{
+  "name": "03-instanews",
+  "version": "1.0.0",
+  "description": "Web Dev Project 3 @ RED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsYouThink/03-instanews.git"
+  },
+  "author": "Dildar Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsYouThink/03-instanews/issues"
+  },
+  "homepage": "https://github.com/AsYouThink/03-instanews#readme"
+}
